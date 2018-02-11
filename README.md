@@ -3,7 +3,7 @@ http://flask.pocoo.org/docs/0.12/quickstart/
 
 # Requirements for python 3.5 + flask 0.12 + gunicorn + virtual env:
 
-        apt-g3et update
+        apt-get update
         apt-get install python3-pip python3-dev nginx -y
         pip3 install virtualenv wheel
         mkdir blog
