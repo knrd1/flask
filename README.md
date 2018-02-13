@@ -1,5 +1,5 @@
-# flask
-http://flask.pocoo.org/docs/0.12/quickstart/
+# Flask
+Application is reading "index.html" from "templates"
 
 # Requirements for python 3.5 + flask 0.12 + gunicorn + virtual env:
 
