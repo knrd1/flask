@@ -11,8 +11,7 @@ http://flask.pocoo.org/docs/0.12/quickstart/
         virtualenv blogenv
         source blogenv/bin/activate
         pip3 install gunicorn flask
-        1) python www.py
-        2) gunicorn www:app
+        gunicorn www:app
         deactivate
 
 # Notes for nginx:
